@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  basePath: "/counter",
-  assetPrefix: "/counter/",
+  basePath: "/react-demo-counter",
+  assetPrefix: "/react-demo-counter/",
 };
 
 export default nextConfig;
